@@ -2,6 +2,7 @@
 
 int main()
 {
+    //test github
     //initalisation des frame de la fenétre
     window.setVerticalSyncEnabled(true);
     font.loadFromFile("res/Kanit-Bold.ttf");
